@@ -1,0 +1,2 @@
+C:\Users\Maria Pilar Martinez\Documents\Programacion .NET\git\angularproject\angularproject\obj\Debug\angularproject.esproj.SuggestedBindingRedirects.cache
+C:\Users\Maria Pilar Martinez\Documents\Programacion .NET\git\angularproject\angularproject\obj\Debug\angularproject.esproj.CoreCompileInputs.cache

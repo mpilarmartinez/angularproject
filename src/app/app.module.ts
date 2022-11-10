@@ -3,6 +3,10 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 
+import { MatButtonModule } from '@angular/material/button';
+
+
+
 @NgModule({
   declarations: [
     AppComponent
@@ -12,5 +16,5 @@ import { AppComponent } from './app.component';
   ],
   providers: [],
   bootstrap: [AppComponent]
-})
+}) 
 export class AppModule { }
